@@ -1,0 +1,32 @@
+.title {
+  height : 3%;
+  width: 100%;
+  background-color : red;
+}
+
+#wrapper {
+  border : 1px;
+  padding: 10px;
+  position: absolute;
+  top: 10px;
+
+}
+
+.main {
+  display: inline-block;
+  height: 94%;
+  width:  75%;
+  background-color: lightblue;
+  float: left;
+  padding: 10px;
+}
+
+.info {
+  display: inline-block;
+  height: 50%;
+  width : 18%;
+  background-color: red;
+  float: right;
+  padding: 12px;
+  margin-left: 10px;
+}
